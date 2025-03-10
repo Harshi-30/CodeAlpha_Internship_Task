@@ -17,7 +17,7 @@
 - [Task-1](https://github.com/Harshi-30/CodeAlpha_Internship_Task/blob/main/StudentGradeTracker.java)
 
 ## Task-2
-### Stock Tradin Platfor
+### Stock Tradin Platform
 "The Stock Trading Platform is a system that enables users to buy and sell stocks, track market trends, analyze portfolio performance, and make informed investment decisions efficiently."
 
 - [Task-2](https://github.com/Harshi-30/CodeAlpha_Internship_Task/blob/main/StockTradingPlatform.java)
